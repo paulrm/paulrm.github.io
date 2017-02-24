@@ -49,7 +49,15 @@ roles:
 
 #Education is required
 education:
- - level: System Analyst (B.Sc.)
+ - level: Magister (Actually studing)
+   date: 2016-2017
+   subject: Mg in Science, Tecnlology and Innovation 
+   school: UNRN - Universidad Nacional de Rio Negro
+ - level: ITIL 
+   date: 2014
+   subject: ITIL Certificated
+   school: EXIM
+ - level: System Analyst 
    date: 1994
    subject: Analista en Sistemas de Informacion
    school: UTN - Universidad Tecnoligica Nacional
