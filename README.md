@@ -4,6 +4,9 @@ Basada en el "NerdAbility - A CV Generator"
 
 Puedes ver la pagina generada por este repo en:  http://paulrm.github.io
 
+## Pendientes
+- Probar instalar el jekyll en windows -> :shit: esto no es posible
+- Probar instalar el jekyll en Linux
 
 # NerdAbility - A CV Generator
 A Jekyll based CV page generator based on the user profile page on Nerdability.
@@ -22,7 +25,6 @@ To make your own GitHub hosted CV:
 3. Update /_config.yml with the details of your CV - the comments will explain what is required
 4. Visit http://{{yourusername}}.github.io to check it out
 5. Share your new CV/Profile with the world!
-
 
 If you want to test it locally, install Ruby & Jekyll, clone the repository locally and run "jekyll serve" from the repo root directoy.
 
