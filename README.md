@@ -1,9 +1,9 @@
 # GitHub CV Page 
 
+Puedes ver la pagina generada por este repo en:  http://paulrm.github.io
 Basada en el "NerdAbility - A CV Generator"
 
-Puedes ver la pagina generada por este repo en:  http://paulrm.github.io
-
+<<<<<<< HEAD
 ## Pendientes
 - Probar instalar el jekyll en windows -> :shit: esto no es posible
 - Probar instalar el jekyll en Linux
@@ -29,5 +29,17 @@ To make your own GitHub hosted CV:
 If you want to test it locally, install Ruby & Jekyll, clone the repository locally and run "jekyll serve" from the repo root directoy.
 
 If you want to host the page on your own web hosting, you will need to run it locally and jekyll will build the site files to the /_site directory which you can then push to your hosting provider - See https://jekyllrb.com/ for details.
+=======
+# Otras paginas de Perfil
+https://about.me/paulrm
+
+>>>>>>> e9b34b2910e654f899d713477d4e0006e204e91c
 
 
+blog 				http://neuroglia.com.ar/
+GitHub 				https://github.com/paulrm
+StackOverflow 		http://stackoverflow.com/users/2201186/paulrm
+LinkedIn  			https://www.linkedin.com/in/paulrmessina
+facebook
+twitter
+instangram			https://www.instagram.com/paul.r.messina/
