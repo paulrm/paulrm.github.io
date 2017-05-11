@@ -80,7 +80,7 @@ education:
 #      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
 #      date: April 28, 2014
 
-List of interesting Github repo/projects to include - optional
+#List of interesting Github repo/projects to include - optional
 github:
  - robhinds/learning-neural-networks
  - robhinds/akka-http-rest-api-sample
