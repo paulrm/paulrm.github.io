@@ -8,6 +8,9 @@ Basada en el "NerdAbility - A CV Generator"
 - Probar instalar el jekyll en windows -> :shit: esto no es posible
 - Probar instalar el jekyll en Linux
 
+## Ultimo Cambio
+- 2017-05-11 Jueves 14:29
+
 # NerdAbility - A CV Generator
 A Jekyll based CV page generator based on the user profile page on Nerdability.
 
