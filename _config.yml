@@ -24,7 +24,8 @@ skills:
  - Unix/Linux
  - Relational Databases
  - Networkig
- - DevsOps
+ - DevOps
+ - Agile
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -53,10 +54,14 @@ education:
    date: 2016-2017
    subject: Mg in Science, Tecnlology and Innovation 
    school: UNRN - Universidad Nacional de Rio Negro
+ - level: VMware vSphere: Optimize and Scale 
+   date: 2015
+   subject: [V6.5]
+   school: VWware Education Services
  - level: ITIL 
    date: 2014
    subject: ITIL Certificated
-   school: EXIM
+   school: EXIM 
  - level: System Analyst 
    date: 1994
    subject: Analista en Sistemas de Informacion

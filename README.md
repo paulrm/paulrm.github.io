@@ -3,8 +3,8 @@
 Puedes ver la pagina generada por este repo en:  http://paulrm.github.io
 Basada en el "NerdAbility - A CV Generator"
 
-<<<<<<< HEAD
 ## Pendientes
+- Arreglar el contenido  :shit:
 - Probar instalar el jekyll en windows -> :shit: esto no es posible
 - Probar instalar el jekyll en Linux
 
