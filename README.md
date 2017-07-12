@@ -2,6 +2,7 @@
 
 Puedes ver la pagina generada por este repo en:  http://paulrm.github.io
 Basada en el "NerdAbility - A CV Generator"
+Repositorio en https://github.com/paulrm/paulrm.github.io
 
 ## Pendientes
 - Arreglar el contenido  :shit:
