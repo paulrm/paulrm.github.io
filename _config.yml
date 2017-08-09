@@ -20,12 +20,12 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - DevOps
+ - Agile
  - Infraestructure
  - Unix/Linux
  - Relational Databases
  - Networkig
- - DevOps
- - Agile
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -36,7 +36,8 @@ roles:
    start: 2012
    end: Ongoing
    employer: INVAP SE
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: INVAP is a company devoted to the design and construction of complex technological systems, with more than 30 years of history in the domestic market and more than twenty in the international scene.  
+# - Previous Desc Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
 # - title: Senior Engineer
 #   start: 2012
 #   end: 2016
