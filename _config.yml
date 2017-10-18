@@ -54,7 +54,11 @@ education:
  - level: Magister (Actually studing)
    date: 2016-2017
    subject: Mg in Science, Tecnlology and Innovation 
-   school: UNRN - Universidad Nacional de Rio Negro
+   school: UNRN - Universidad Nacional de Rio Negro 
+ - level: COBIT 5 Foundation
+   date: 2017
+   subject: ISACA Certificated
+   school: Exentia
  - level: VMware vSphere Optimize and Scale 
    date: 2015
    subject: [V6.5]
